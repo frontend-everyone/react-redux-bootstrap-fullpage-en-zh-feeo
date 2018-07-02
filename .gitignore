@@ -1,0 +1,11 @@
+.idea/
+.cache-loader/
+node_modules/
+devBuild/
+dist/
+entryBuild/
+pc/
+backup/
+npm-debug*
+doc/gitbook/_book
+doc/jsdoc/out
